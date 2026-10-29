@@ -1,50 +1,41 @@
 Aimy Privacy Policy
 
-Last Updated: October 28, 2026
+Last Updated: October 26, 2026
 
-Aimy is a Discord music bot that provides music playback and related features. This policy explains what information we collect and how we use it.
+Aimy is a Discord bot for music, utility commands, and AI questions using "/ask".
 
 1. Information We Collect
 
-Aimy may collect the following information:
+Aimy may collect and store:
 
-- Server ID: To identify the Discord server.
-- Server Owner ID: For server identification and support.
-- Inviter ID: When available through Discord.
-- Server Invite Link: When accessible with the required permissions.
-- User ID: When a user executes a command.
-- Channel ID: To identify where a command was used.
-- Success and Error Logs: To monitor commands, fix errors, and maintain the bot.
-- Rate-Limit Records: To detect excessive requests and prevent abuse.
+- User IDs when commands are used.
+- Server IDs, owner IDs, member counts, and server age.
+- Command success and error logs.
+- Users' liked songs and music preferences.
+- Server settings and other information needed for bot features.
 
 2. How We Use Information
 
-We use this information to:
+We use this information to run Aimy, save music preferences, manage settings, fix errors, and prevent abuse.
 
-- Provide music and bot features.
-- Process commands and manage playback.
-- Troubleshoot errors and improve reliability.
-- Prevent spam, abuse, and unauthorized use.
-- Apply command cooldowns and rate limits.
+3. Data Storage
 
-3. Data Sharing
+Some information is stored in our hosting provider's database. Command and error logs are automatically deleted after 30 days. Other data may remain stored while needed for Aimy's features.
 
-We do not sell your personal information. Information may be processed by Discord and necessary third-party services used to operate Aimy.
+4. AI Services
 
-4. Data Storage
+The "/ask" command sends users' questions to a third-party AI provider, such as OpenAI, to generate responses. Aimy does not intentionally save these conversations in its own database. Third-party providers may handle data according to their own policies.
 
-Information may be stored temporarily or in logs for as long as necessary to operate, secure, and maintain Aimy. Retention periods depend on the type of data and the system involved.
+5. Data Sharing
 
-5. Permissions
+We do not sell users' personal information. Information may be processed by Discord, our hosting provider, and services needed to operate Aimy.
 
-Aimy can only access information made available through Discord and its granted permissions. Some information, such as inviter IDs and server invite links, may not always be available.
+6. Data Deletion
 
-6. Your Choices
+To request deletion of your stored data, join our official support server and contact our team:
 
-You can stop using Aimy or remove it from your server at any time. For privacy questions or data requests, contact us through our official support server.
+Support Server: [https://discord.gg/w8mrZz2vs]
 
-7. Policy Updates
+7. Updates
 
-We may update this policy when our features or data practices change. Updates will be published on our official page.
-
-By using Aimy, you acknowledge this Privacy Policy.
+We may update this policy when our features or data practices change.
