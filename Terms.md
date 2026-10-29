@@ -1,50 +1,35 @@
-Aimy Terms of Service
+# Aimy Terms of Service
 
-Last Updated: October 28, 2026
+**Last Updated: October 26, 2026**
 
-By using Aimy, you agree to these Terms. If you disagree, please stop using the bot.
+By using Aimy, you agree to these terms.
 
-1. Using Aimy
+### 1. Using Aimy
 
-Aimy is a Discord music bot that provides music playback, queue management, and related commands. Features may change or become unavailable at any time.
+You may use Aimy for music, utility commands, and available AI features. Do not abuse the bot, spam commands, or use it for illegal activities.
 
-2. User Responsibilities
+### 2. Music and AI
 
-You agree not to:
+Some features depend on third-party services. AI responses from `/ask` may be inaccurate, so verify important information independently.
 
-- Spam commands or intentionally overload the bot.
-- Bypass rate limits or abuse bot features.
-- Exploit bugs or attempt unauthorized access.
-- Use Aimy for illegal activities or to violate Discord's rules.
+### 3. Availability
 
-3. Rate Limits
+We may update, suspend, or remove features at any time. We cannot guarantee uninterrupted service.
 
-Aimy may temporarily restrict commands or access if you exceed rate limits or abuse the service. Repeated violations may result in longer restrictions.
+### 4. Misuse
 
-4. Permissions and Data
+We may restrict access to Aimy if someone abuses the bot or attempts to damage its systems.
 
-Aimy may process server IDs, owner IDs, inviter IDs, accessible server invite links, user IDs, channel IDs, and command success or error logs as described in our Privacy Policy.
+### 5. Privacy
 
-Some information depends on Discord's API and the permissions granted to Aimy.
+Your use of Aimy is subject to our Privacy Policy.
 
-5. Music and Third-Party Services
+### 6. Changes
 
-Music availability depends on supported sources and third-party services. You must respect applicable copyright laws and the terms of any service used. Aimy does not claim ownership of third-party content.
+We may update these terms when necessary.
 
-6. Availability
+### 7. Contact
 
-Aimy is provided on an "as available" basis. We do not guarantee uninterrupted service or error-free playback and may modify, suspend, or discontinue features.
+For support or privacy requests, join our official Discord support server:
 
-7. Restrictions and Termination
-
-We may restrict or suspend access for abuse, security reasons, or violations of these Terms. You may stop using Aimy at any time.
-
-8. Changes to These Terms
-
-We may update these Terms when necessary. The latest version will be published on our official page.
-
-9. Contact
-
-For support or questions about these Terms, contact us through Aimy's official Discord support server.
-
-By using Aimy, you agree to these Terms of Service.
+**Support Server:** https://discord.gg/w8mrZz2vs
