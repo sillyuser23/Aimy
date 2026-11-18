@@ -34,7 +34,7 @@ We do not sell users' personal information. Information may be processed by Disc
 
 To request deletion of your stored data, join our official support server and contact our team:
 
-Support Server: [https://discord.gg/w8mrZz2vs]
+Support Server: [https://discord.gg/UGYgHWbR4J]
 
 7. Updates
 
