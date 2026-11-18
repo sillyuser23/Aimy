@@ -32,4 +32,4 @@ We may update these terms when necessary.
 
 For support or privacy requests, join our official Discord support server:
 
-**Support Server:** https://discord.gg/w8mrZz2vs
+**Support Server:** https://discord.gg/UGYgHWbR4J
